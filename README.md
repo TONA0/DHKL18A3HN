@@ -10,8 +10,8 @@ git clone https://github.com/tbtrung39/KHDL18A3HN_712.git
 
 ## II. Thực hiện tạo nhánh chính cá nhân
 
-B1: Sau khi clone repository về máy thành công tiến hành tạo **NHÁNH CHÍNH** theo **ĐÚNG** format: ```<ROOT_STT_họ và tên>```. Format phải CHÍNH XÁC giống như sau: ROOT_11_Ngo_Quang_Dai, STT là số thứ tự được gắn kèm với danh sách lớp. Sử dụng lệnh sau để tạo nhánh chính:
-
+B1: Sau khi clone repository về máy thành công tiến hành tạo **NHÁNH CHÍNH** theo **ĐÚNG** format: ```<ROOT_STT_họ và tên>```. Format phải **CHÍNH XÁC** giống như sau: ```ROOT_11_Ngo_Quang_Dai```, STT là số thứ tự được gắn kèm với danh sách lớp. Sử dụng lệnh sau để tạo nhánh chính:
+```
 git checkout -b <tên nhánh chính vừa tạo>
 LƯU Ý: Nhánh chính làm không chính xác sẽ bị xóa, nếu mất bài sinh viên tự chịu trách nhiệm
 
